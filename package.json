@@ -1,0 +1,20 @@
+{
+  "name": "prueba_bancosolar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "moment": "^2.29.1",
+    "pg": "^8.7.3"
+  }
+}
